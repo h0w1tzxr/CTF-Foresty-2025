@@ -11,7 +11,13 @@
 # 🌲 CTF Foresty 2025 — constantine
 **Dokumentasi progress CTF buat belajar lagi, ada navigasi instan sama highlight.**
 
+**CTF dan Write-Up dibantu oleh:**
+
+[Google Gemini 2.5 Pro](https://gemini.google.com) · [ChatGPT 5.1 Extended Thinking](https://chatgpt.com/) · [Grok 4 Thinking](https://grok.com/)
+
 </div>
+
+---
 
 ## 🗺️ Map of Write-Ups
 | Kategori | Gambaran | Status | CTA |
@@ -94,15 +100,3 @@ Pencet _accordion/panah_ di bawah buat ngebaca ringkasan tanpa ninggalin halaman
 - `Soal UTBK.pdf`  Substitution Logic. Memecahkan pola substitusi karakter sederhana berdasarkan konteks soal.
 
 </details>
-
-## 🧱 Struktur Repo Singkat
-```
-CTF-Foresty-2025/
-├─ Binary Exploitation/
-├─ Cryptography/
-├─ Forensic/
-├─ Misc/
-├─ OSINT/
-├─ Reverse Engineering/
-└─ Web Exploit/
-```
