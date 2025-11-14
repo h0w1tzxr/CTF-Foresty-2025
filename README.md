@@ -9,7 +9,7 @@
 </div>
 
 # 🌲 CTF Foresty 2025 — constantine
-**Dokumentasi progress CTF buat belajar lagi, ada navigasi instan sama highlight.**
+**Dokumentasi progress CTF buat belajar lagi**
 
 **CTF dan Write-Up dibantu oleh:**
 
