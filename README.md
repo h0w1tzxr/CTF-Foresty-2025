@@ -11,8 +11,6 @@
 # 🌲 CTF Foresty 2025 — constantine
 **Dokumentasi progress CTF buat belajar lagi, ada navigasi instan sama highlight.**
 
-[🔍 Explore](#map-of-write-ups) · [🧭 Cara Pakai](#cara-pakai)
-
 </div>
 
 ## 🗺️ Map of Write-Ups
