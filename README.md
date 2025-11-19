@@ -9,7 +9,7 @@ _Authored by **Constantine**_
 
 <div style="display: flex; justify-content: center; gap: 10px; margin-top: 10px;">
   <img src="https://img.shields.io/badge/Status-Finished-success?style=for-the-badge&logo=cachet">
-  <img src="https://img.shields.io/badge/Flags%20Captured-24%20%2F%2024-blueviolet?style=for-the-badge&logo=ctf">
+  <img src="https://img.shields.io/badge/Flags%20Captured-24%20%2F%2026-blueviolet?style=for-the-badge&logo=ctf">
   <img src="https://img.shields.io/badge/Focus-Red%20Teaming-red?style=for-the-badge">
 </div>
 
@@ -74,7 +74,7 @@ _Authored by **Constantine**_
 | Challenge | Pts | Diff | ⚡ Critical Insight (TL;DR) | Report |
 | :--- | :---: | :---: | :--- | :---: |
 | **Atmin Lagi** | 100 | 🟢 | **GeoINT**. Identifikasi Bandara Jambi via plat nomor kendaraan & arsitektur. | [📄 PDF](OSINT/Atmin%20Lagi.pdf) |
-| **Atmint** | 100 | 🟢 | **IMINT**. Presisi lokasi Shelter Kalayang Soetta (CGK) via refleksi kaca. | [📄 PDF](OSINT/Atmint.pdf) |
+| **Atmint** | 100 | 🟢 | **IMINT**. Presisi lokasi Shelter Kalayang Soetta (CGK) via signage & arsitektu. | [📄 PDF](OSINT/Atmint.pdf) |
 | **Serlok** | 100 | 🟢 | **Visual Recon**. Zoom in teks samar "Stigm" -> Stigma Billiard. | [📄 PDF](OSINT/Serlok.pdf) |
 | **Thr34t_4ct0r** | 430 | 🔴 | **Dark Web Profiling**. Lookup database BreachForums untuk de-anonimisasi aktor. | [📄 PDF](OSINT/Thr34t_4ct0r.pdf) |
 
@@ -101,7 +101,7 @@ _Authored by **Constantine**_
 | **iHGracias** | 100 | 🟢 | **IDOR & Cookie**. Manipulasi cookie role & IDOR pada parameter user ID. | [📄 PDF](Web%20Exploit/iHGracias.pdf) |
 | **Injection** | 110 | 🟢 | **SQLi & Cmd Inj**. Bypass login via SQLi, lalu RCE via fitur "Ping". | [📄 PDF](Web%20Exploit/Injection.pdf) |
 | **Restricted Area** | 100 | 🟢 | **Client-side**. Flag tersembunyi di atribut `value` input HTML. | [📄 PDF](Web%20Exploit/Restricted%20Area.pdf) |
-| **Toko Bendera** | 450 | 🔴 | **DomPDF RCE**. Exploitasi font caching untuk eksekusi PHP jarak jauh. | [📄 PDF](Web%20Exploit/Toko%20Bendera.pdf) |
+| **Toko Bendera** | 450 | 🔴 | **DomPDF RCE**. Exploitasi font caching untuk eksekusi RCE pada DompPDF. | [📄 PDF](Web%20Exploit/Toko%20Bendera.pdf) |
 
 <br>
 
@@ -130,5 +130,5 @@ _Authored by **Constantine**_
 <img src="https://img.shields.io/badge/Google%20Gemini%202.5%20Pro-886FBF?logo=googlegemini&logoColor=fff">
 
 <br><br>
-<i>"Mi Bombo."</i>
+<i>"The Lion Doesn't Concern Himself Designing A Write-Up At 3 AM."</i>
 </div>
