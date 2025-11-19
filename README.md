@@ -11,9 +11,6 @@
 </p>
 
 ---
-<br>
-Repository ini berisi write-up dari Internal CTF Foresty 2025.
-
 </div>
 
 ## 🗺️ NavHub
