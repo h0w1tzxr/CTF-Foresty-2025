@@ -1,6 +1,31 @@
-MIT License
+CTF Foresty 2025 Write-Ups & Solvers
+Copyright © 2025 h0w1tzxr. All Rights Reserved.
 
-Copyright (c) 2025 h0w1tzxr
+========================================================================
+               BINDING AGREEMENT & DUAL-LICENSING TERMS
+========================================================================
+
+NOTICE TO USER:
+This repository ("The Repository") contains intellectual property and 
+software tools designed for educational security research. By downloading, 
+cloning, forking, or accessing any file within this Repository, you 
+("The User") agree to be bound by the terms set forth below.
+
+The Repository is governed by a DUAL-LICENSE MODEL based strictly on file 
+classification.
+
+    1. SOURCE CODE & AUTOMATION ("The Software")
+       File types: .py, .sh, .c, .cpp, .go, .rb, binary exploits.
+       LICENSE: The MIT License (See Section I).
+
+    2. DOCUMENTATION & INTELLECTUAL PROPERTY ("The Documentation")
+       File types: .md, .pdf, .txt, images, diagrams, methodology logs.
+       LICENSE: CC BY-NC-SA 4.0 International (See Section II).
+
+========================================================================
+              SECTION I: THE SOFTWARE LICENSE (MIT)
+========================================================================
+APPLICABLE TO: All executable scripts, source code, and automation tools.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -9,13 +34,73 @@ to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
 copies of the Software, and to permit persons to whom the Software is
 furnished to do so, subject to the following conditions:
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+1.  The above copyright notice and this permission notice shall be included 
+    in all copies or substantial portions of the Software.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+2.  THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS 
+    OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF 
+    MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. 
+    IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY 
+    CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, 
+    TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE 
+    SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+========================================================================
+           SECTION II: THE DOCUMENTATION LICENSE (CC BY-NC-SA 4.0)
+========================================================================
+APPLICABLE TO: Write-ups, analytical content, and visual assets.
+
+This work is licensed under the Creative Commons Attribution-NonCommercial-
+ShareAlike 4.0 International License.
+
+UNDER THIS LICENSE:
+[+] ATTRIBUTION: You must appropriately credit "h0w1tzxr" as the original 
+    author and provide a link to the source repository.
+[+] NON-COMMERCIAL: You may NOT use the material for commercial purposes, 
+    including but not limited to paid courses, books, or monetization behind 
+    paywalls without explicit written consent.
+[+] SHARE-ALIKE: If you remix, transform, or build upon the material, you 
+    must distribute your contributions under the same license as the original.
+
+Full Legal Code: http://creativecommons.org/licenses/by-nc-sa/4.0/legalcode
+
+========================================================================
+           SECTION III: OPERATIONAL CONSTRAINTS & INDEMNIFICATION
+========================================================================
+
+1.  COMPLIANCE & ETHICAL USE
+    The tools and information provided herein are strictly for educational 
+    purposes and authorized security testing (e.g., Capture The Flag events). 
+    The User warrants that they will not use The Repository for any illegal 
+    activities, including but not limited to unauthorized access, network 
+    disruption, or data theft.
+
+2.  INDEMNIFICATION
+    You agree to indemnify, defend, and hold harmless the Author (h0w1tzxr) 
+    from and against any and all claims, liabilities, damages, losses, or 
+    expenses, including legal fees and costs, arising out of or in any way 
+    connected with your access to or use of the Software and Documentation.
+
+3.  SEVERABILITY
+    If any provision of this License is held to be invalid or unenforceable, 
+    such provision shall be struck and the remaining provisions shall be 
+    enforced to the fullest extent under law.
+
+========================================================================
+                SECTION IV: PROVENANCE & INTEGRITY
+========================================================================
+
+1.  EXTERNAL ATTRIBUTION
+    * Target: "Thr34t_4ct0r" (OSINT)
+        Provenance: The investigative chain used in this solution was adapted 
+        from public research by 'sn0wden' (Bandung Cybersecurity Community). 
+        This repository claims no ownership over the original methodology, 
+        only its implementation.
+
+2.  AUTOMATED CODE GENERATION & OVERSIGHT
+    * Synthesis: Portions of this repository utilize generative AI 
+        frameworks for boilerplate optimization and documentation structuring.
+    * Human Validation: All AI-synthesized components have been manually 
+        audited, debugged, and verified by h0w1tzxr. The Author assumes full 
+        responsibility for the technical accuracy and safety of the code 
+        contained herein.
