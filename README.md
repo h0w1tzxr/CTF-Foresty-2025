@@ -3,7 +3,7 @@
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZyPzorKkQfJFLlR7fuzNEKp3lCXvE3s5-9Q&s" height="120" alt="Logo Foresty Lab" style="border-radius: 15px; box-shadow: 0px 0px 20px rgba(0,0,0,0.5);">
 
 # 🌲 CTF Foresty 2025 Write-Ups
-**Offensive Security Capture-The-Flag Documentation**
+**Capture The Flag Documentation**
 <br>
 _Authored by **Constantine**_
 
