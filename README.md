@@ -12,13 +12,13 @@
 
 ---
 <br>
-Repository ini berisi write-up dari kompetisi CTF Foresty 2025.
+Repository ini berisi write-up dari Internal CTF Foresty 2025.
 
 </div>
 
 ## 🗺️ NavHub
 
-Berikut adalah rekap challenge yang telah diselesaikan. Klik pada **Nama Kategori** untuk melihat detail write-up dan teknik yang digunakan.
+Berikut adalah rekap challenge yang telah diselesaikan. Pada section Write-Ups, klik **Nama Kategori** untuk melihat detail write-up dan teknik yang digunakan.
 
 | Kategori | Jumlah Solved | Key Topics |
 | :--- | :---: | :--- |
