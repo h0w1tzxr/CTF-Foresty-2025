@@ -15,19 +15,6 @@ _Authored by **Constantine**_
 
 ---
 
-<h3>🧭 <b>Navigation Hub</b></h3>
-
-<p align="center">
-  <a href="#-binary-exploitation" style="color:#58a6ff;">💥 Pwn</a> • 
-  <a href="#-cryptography" style="color:#58a6ff;">🔐 Crypto</a> • 
-  <a href="#-digital-forensics" style="color:#58a6ff;">🔎 Forensics</a> • 
-  <a href=" # -open-source-intelligence" style="color:#58a6ff;">🕵️ OSINT</a> • 
-  <a href=" # -reverse-engineering" style="color:#58a6ff;">⚙️ Reverse Engineer</a> • 
-  <a href="#-web-exploitation" style="color:#58a6ff;">🌐 Web</a> • 
-  <a href="#-miscellaneous" style="color:#58a6ff;">🎲 Misc</a>
-</p>
-
----
 </div>
 
 ## 💥 Binary Exploitation
